@@ -1,0 +1,7 @@
+.card-deck {
+    display: flex;
+}
+
+ul {
+    display:none;
+}
